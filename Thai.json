@@ -29,7 +29,7 @@
 	"ViewOnSteam": "ตรวจสอบบน Steam",
 	"RedeemaKey": "Redeem a Key",
 	"GetDevUpdates": "Get Dev Updates",
-	"GetDevUpdatesDescription": "Enter your email to receive a newsletter when the next Subnautica Early Access update is released!",
+	"GetDevUpdatesDescription": "กรอกอีเมล์เพื่อรับข่าวสาร เมื่อมี Subnautica อัพเดทออกใหม่!",
 	"EnterEmailPlaceholder": "Enter email...",
 	"ViewPastUpdates": "View Past Updates",
 	"Subscribe": "Subscribe",
@@ -715,7 +715,7 @@
 
     // Creature research
     "ReefbackTissue" : "Cartilaginous Tissue",
-    "Tooltip_ReefbackTissue" : "This strong connective tissue may allow new ways of building strengthened dive suits",
+    "Tooltip_ReefbackTissue" : "เนื้อเยื้อเหนียวๆนี้ อาจจะใช้ทำชุดดำน้ำที่แข็งแรงได้",
 
     "ReefbackShell" : "Cartilaginous Shell",
     "Tooltip_ReefbackShell" : "This highly resilient shell cartilage may allow building stronger reinforcing structures",
@@ -810,6 +810,6 @@
     "RotateCorridorHint": "Q/E or scroll wheel to rotate",
 
 	"RadiationFixed": "All radiation leaks fixed. Estimated duration of complete dissipation: 3 days.",
-	"RemainingRadiationLeaks": "Remaining leaks"
+	"RemainingRadiationLeaks": "ส่วนที่รังสียังรั่ว"
 
 }
